@@ -12,7 +12,7 @@ Step 1: Download rEFInd
 
 Step 2: Watch the video below
 		
-		https://www.youtube.com/watch?v=eQXdxTva1WA
+	https://www.youtube.com/watch?v=eQXdxTva1WA
 
 Step 3: Themes folder copy
 
